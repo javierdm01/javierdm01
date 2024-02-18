@@ -23,7 +23,8 @@ How to reach me:
 * [@javierdiazmolina on Linkedin](https://www.linkedin.com/in/javierdiazmolina/)
 * [diazmolinajavier04@gmail.com](mailto:diazmolinajavier04@gmail.com)
 
-##Performance
+## Performance
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,php,symfony,java,mysql,linux,vscode,git,cpp,eclipse,github&perline=20" />
 
-* https://github-readme-stats.vercel.app/api?username=javierdm01&show_icons=true&theme=algolia
+<img src= "https://github-readme-stats.vercel.app/api?username=javierdm01&show_icons=true&theme=algolia" />
 
